@@ -11,6 +11,7 @@ public class FlywayPractiseApplication {
 		//Minor changes done
 		System.out.println("Minor change");
 		System.out.println("Minor change--2");
+		System.out.println("Minor change--3");
 	}
 
 }
