@@ -10,7 +10,7 @@ public class FlywayPractiseApplication {
 		SpringApplication.run(FlywayPractiseApplication.class, args);
 		//Minor changes done
 		System.out.println("Minor change");
-		System.out.println("Minor change--2333!!!");
+		System.out.println("Minor change--2333!!! from git");
 	}
 
 }
